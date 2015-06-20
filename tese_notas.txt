@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 alterando local
+=======
+alterando online
+>>>>>>> a069a283dd0f2a32d936cbe68c0c2114e9101512
 mexendo
 
 mais uma coisa
